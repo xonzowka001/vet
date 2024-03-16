@@ -1,0 +1,202 @@
+.siteheader{
+  background-color: white;
+
+}
+.siteheader__cat{
+  background-image: url("../../img/hayvonlar1.jpg");
+  background-repeat: no-repeat;
+  height: 700px;
+}
+.siteheader__box{
+  max-width: 1000px;
+ padding: 150px 0px 150px 650px;
+}
+
+.siteheader__texst{
+  margin-bottom: 20px;
+  color: #268383;
+}
+.siteheader__btn{
+  border-radius: 5px;
+  padding: 20px 25px;
+  color: white;
+  background-color: black;
+}
+
+
+// section2
+
+
+ 
+
+.siteheader__dog{
+  max-width: 1000px;
+  padding: 40px 0 40px 340px;
+  margin-top: 30px;
+}
+.texst1{
+  color: rgb(148, 148, 148);
+font-family: Futura PT;
+font-size: 20px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: center;
+margin-bottom: 40px;
+}
+.sarlavha1{
+  color: rgb(51, 51, 51);
+font-size: 20px;
+font-weight: 500;
+text-align: left;
+text-align: center;
+}
+
+
+
+// section3
+
+.graetmain__header
+.graetmain__sarlavha{
+  max-width: 200px;
+  
+
+}
+.graetmain__box{
+  text-align: center;
+  margin-right:   60px;
+
+}
+.graetmain__taitle{
+  color: rgb(51, 51, 51);
+font-family: Futura PT;
+font-size: 48px;
+font-weight: 700;
+text-align: center;
+margin-top: 144px;
+
+}
+
+
+
+
+// section4
+
+.graetmain__help{
+  max-width: 1100px;
+
+  
+}
+.graetmain__list{
+  padding: 110px 0 83px 260px;
+  display: flex;
+  justify-content: space-between;
+  
+  
+}
+.graetmain__item{
+  color: rgb(51, 51, 51);
+font-family: Futura PT;
+font-size: 18px;
+text-align: center;
+flex-direction: column;
+margin-bottom: 40px;
+
+}
+
+
+
+// section5
+
+.main__help{
+  max-width: 1440px;
+}
+.main__selection{
+  display: flex;
+  justify-content: space-between;
+  padding: 270px;
+  align-items: center;
+}
+.main__title{
+color: rgb(51, 51, 51);
+font-family:Futura PT;
+font-size:36px;
+font-weight:500;
+line-height: 20px;
+letter-spacing:0%;
+text-align:left;
+}
+.main__texst{
+  color: rgb(148, 148, 148);
+font-family: Futura PT;
+font-size: 16px;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0%;
+text-align: left;
+}
+.main__btn{
+  background-color: hwb(31 12% 7%);
+  color: wheat;
+  padding: 15px 36px 13px 63px;
+margin-right: 21px;
+align-items: center;
+  
+}
+.main__btn1{
+  background-color: black;
+  color:white;
+  padding: 15px 5px 13px 64px;
+ 
+}
+// section6
+
+.container{
+ max-width: 1540px; 
+ display: flex;
+ justify-content: space-between;
+}
+
+
+
+
+.main__dog{
+  display: flex;
+ align-items: center;
+ background-image: url(../../img/kisspng-dog-grooming-puppy-pet-veterinarian-dogs-5ab3e2fb839b14\ 1.png);
+ background-repeat: no-repeat;
+ height: 700px;
+ width: 1700px;
+ background-color: #acacf9;
+ margin-right: 700px;
+text-align: center;
+
+ 
+}
+.timeline{
+  margin-right: 270px;
+  justify-content: space-between;
+  
+}
+.title1{
+  color: rgb(255, 255, 255);
+font-family: Futura PT;
+font-size: 48px;
+font-weight: 700;
+line-height: 20px;
+letter-spacing: 0%;
+text-align: left;
+margin-bottom: 32px;
+position: relative;
+}
+.forminput{
+  border-radius: 5px;
+background: rgb(255, 255, 255);
+padding: 18px 114px 12px 22px;
+}
+.outline{
+  border-radius: 3px;
+background: rgb(51, 51, 51);
+padding: 15px 33px 13px 54px;
+}
+
